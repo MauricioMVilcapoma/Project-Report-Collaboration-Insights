@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b6cd07e-cd9a-4659-8384-341c59e59204)### Desarrollo de Actividades
+### Desarrollo de Actividades
 
 - **Version 1.0: 17/08/2024**
   - **Muñoz Vilcapoma Mauricio Rigoberto**: Creó la estructura básica del informe, definiendo las secciones clave y asegurando una presentación clara y coherente. Para iniciar el proceso, organizó una reunión inicial donde expuso los objetivos del informe y la importancia de tener un formato estandarizado. En esta reunión, se discutieron las secciones principales y se asignaron roles, permitiendo a cada integrante definir sus áreas de responsabilidad. Durante el proceso, tuvo consultas frecuentes con Guzman para afinar detalles en la presentación del perfil de la startup.
@@ -43,6 +43,7 @@ Este proceso no solo fomentó la responsabilidad individual, sino que también c
 
 
 # Capturas
+
 ![image](https://github.com/user-attachments/assets/77ad5a60-f184-474a-a6ac-9b537a6a090d)
 ![image](https://github.com/user-attachments/assets/cab72ec3-d57b-422b-ab32-614b7a0689ba)
 ![image](https://github.com/user-attachments/assets/fccadbd9-e3e3-4bd0-bc90-80b21cd2ae8c)
@@ -56,6 +57,7 @@ Este proceso no solo fomentó la responsabilidad individual, sino que también c
 ![image](https://github.com/user-attachments/assets/69dc8165-3df4-4204-a01e-fce022952dfd)
 ![image](https://github.com/user-attachments/assets/01cb890a-3443-4bb5-9184-35d9d7d0fbfc)
 ![image](https://github.com/user-attachments/assets/576dd399-41ba-4361-bdc0-a208a9397a04)
+![image](https://github.com/user-attachments/assets/1b6cd07e-cd9a-4659-8384-341c59e59204)
 ![image](https://github.com/user-attachments/assets/f9af1e7f-43a3-48cc-9ee6-eb05bbab6223)
 ![image](https://github.com/user-attachments/assets/209cf57f-5d88-4aa8-95e0-f626048c6a1c)
 
@@ -71,6 +73,9 @@ Este proceso no solo fomentó la responsabilidad individual, sino que también c
 ![image](https://github.com/user-attachments/assets/ccb29b59-337a-4230-989f-03737a8882be)
 ![image](https://github.com/user-attachments/assets/e4ade01b-dd30-4b63-908c-8371b8efe8cb)
 ![image](https://github.com/user-attachments/assets/8a477403-a02c-4a04-9837-2c361c0033af)
+
+
+![Imagen de WhatsApp 2024-09-19 a las 23 53 21_ed9c1787](https://github.com/user-attachments/assets/2307537d-9a1c-4207-9a6a-8c2bf33d6482)
 
 
 
