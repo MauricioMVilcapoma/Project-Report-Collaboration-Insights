@@ -1,4 +1,4 @@
-### Desarrollo de Actividades
+![image](https://github.com/user-attachments/assets/1b6cd07e-cd9a-4659-8384-341c59e59204)### Desarrollo de Actividades
 
 - **Version 1.0: 17/08/2024**
   - **Muñoz Vilcapoma Mauricio Rigoberto**: Creó la estructura básica del informe, definiendo las secciones clave y asegurando una presentación clara y coherente. Para iniciar el proceso, organizó una reunión inicial donde expuso los objetivos del informe y la importancia de tener un formato estandarizado. En esta reunión, se discutieron las secciones principales y se asignaron roles, permitiendo a cada integrante definir sus áreas de responsabilidad. Durante el proceso, tuvo consultas frecuentes con Guzman para afinar detalles en la presentación del perfil de la startup.
@@ -39,4 +39,42 @@ Se llevaron a cabo reuniones semanales, donde se discutieron avances, se compart
 A medida que se avanzaba, se realizaron consultas informales entre compañeros para aclarar dudas y refinar ideas, lo que ayudó a construir un entorno de trabajo colaborativo. Las revisiones grupales permitieron recibir retroalimentación constructiva, lo que fortaleció la cohesión del equipo y aseguró que el contenido fuera pertinente y alineado con los objetivos del proyecto.
 
 Este proceso no solo fomentó la responsabilidad individual, sino que también cultivó un sentido de pertenencia al equipo. Las iteraciones y el trabajo conjunto resultaron en un informe final que refleja una visión colectiva y bien estructurada del proyecto, asegurando que cada sección estuviera en armonía con las demás y que el resultado final fuera de alta calidad y relevancia para el contexto del proyecto.
+
+
+
+# Capturas
+![image](https://github.com/user-attachments/assets/77ad5a60-f184-474a-a6ac-9b537a6a090d)
+![image](https://github.com/user-attachments/assets/cab72ec3-d57b-422b-ab32-614b7a0689ba)
+![image](https://github.com/user-attachments/assets/fccadbd9-e3e3-4bd0-bc90-80b21cd2ae8c)
+![image](https://github.com/user-attachments/assets/75140a8b-7faf-47ee-87ea-433809ecb9cb)
+![image](https://github.com/user-attachments/assets/b700b779-ded4-4907-8e88-115f5f85d8b5)
+![image](https://github.com/user-attachments/assets/6be864dc-085b-483c-96f7-7083a1694250)
+![image](https://github.com/user-attachments/assets/f860600e-1507-4930-b7e6-6d9100734f58)
+![image](https://github.com/user-attachments/assets/d9756c60-5943-4906-a392-426aea817aff)
+![image](https://github.com/user-attachments/assets/4fe9e1fc-38ef-4568-a6b1-f6fc498fab49)
+![image](https://github.com/user-attachments/assets/9c5d1044-7337-41fc-9f3c-73c9b32ae456)
+![image](https://github.com/user-attachments/assets/69dc8165-3df4-4204-a01e-fce022952dfd)
+![image](https://github.com/user-attachments/assets/01cb890a-3443-4bb5-9184-35d9d7d0fbfc)
+![image](https://github.com/user-attachments/assets/576dd399-41ba-4361-bdc0-a208a9397a04)
+![image](https://github.com/user-attachments/assets/f9af1e7f-43a3-48cc-9ee6-eb05bbab6223)
+![image](https://github.com/user-attachments/assets/209cf57f-5d88-4aa8-95e0-f626048c6a1c)
+
+![image](https://github.com/user-attachments/assets/783ce743-6589-4126-9fbe-5121d24e4564)
+![image](https://github.com/user-attachments/assets/57f58279-e0a9-4437-985d-f5314338c7d5)
+![image](https://github.com/user-attachments/assets/acd44019-a7f1-4d06-9727-fc4675ccf2c9)
+![image](https://github.com/user-attachments/assets/d8988045-e5a3-4387-8506-86c41c0c8346)
+![image](https://github.com/user-attachments/assets/3949e5bd-d592-479c-ab4e-083ee9c7f8fd)
+![image](https://github.com/user-attachments/assets/2add2531-b8a0-4a81-bf64-a907646cdd57)
+![image](https://github.com/user-attachments/assets/c69a460e-329d-4c74-b79d-cb4294f1edb2)
+![image](https://github.com/user-attachments/assets/9e092052-4fe2-4d21-b49f-68b352d1745d)
+![image](https://github.com/user-attachments/assets/ad0352d7-00d6-4ba4-becd-7fcbffd32ea1)
+![image](https://github.com/user-attachments/assets/ccb29b59-337a-4230-989f-03737a8882be)
+![image](https://github.com/user-attachments/assets/e4ade01b-dd30-4b63-908c-8371b8efe8cb)
+![image](https://github.com/user-attachments/assets/8a477403-a02c-4a04-9837-2c361c0033af)
+
+
+
+
+
+
 
