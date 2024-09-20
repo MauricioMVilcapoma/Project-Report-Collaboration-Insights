@@ -74,7 +74,7 @@ Este proceso no solo fomentó la responsabilidad individual, sino que también c
 ![image](https://github.com/user-attachments/assets/e4ade01b-dd30-4b63-908c-8371b8efe8cb)
 ![image](https://github.com/user-attachments/assets/8a477403-a02c-4a04-9837-2c361c0033af)
 
-
+#Correciones del feedback
 ![Imagen de WhatsApp 2024-09-19 a las 23 53 21_ed9c1787](https://github.com/user-attachments/assets/2307537d-9a1c-4207-9a6a-8c2bf33d6482)
 
 
